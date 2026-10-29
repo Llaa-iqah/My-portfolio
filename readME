@@ -1,0 +1,34 @@
+# Personal Portfolio
+
+A personal portfolio website designed to showcase my software development projects, skills, and learning journey.
+
+## About the Project
+
+I wanted to build a portfolio that stands out from the usual developer websites. The red-and-black colour scheme gives it a bold, modern look, while the layout brings together my projects, skills, and experience in one place.
+
+This project is also an opportunity to put what I've been learning into practice, from building the interface to making the website responsive and presenting my work in a clear, interactive way.
+
+## Features
+
+- Bold red-and-black design
+- Responsive layout
+- Project showcase
+- Skills and certificates section
+- Personal introduction
+- Interactive elements and visual effects
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
+
+1. Clone this repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+
+---
+
+*A work in progress — built one feature at a time.*
